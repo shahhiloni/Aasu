@@ -1,0 +1,45 @@
+ninja: Entering directory `E:\REACT_NATIVE\MyNewApp\android\app\.cxx\RelWithDebInfo\254m2715\arm64-v8a'
+[0/2] Re-checking globbed directories...
+[1/43] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o
+[2/43] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o
+[3/43] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o
+[4/43] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o
+[5/43] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o
+[6/43] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o
+[7/43] Building CXX object CMakeFiles/appmodules.dir/OnLoad.cpp.o
+[8/43] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o
+[9/43] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/407645e4fc716d23903a33e1264f5c1e/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o
+[10/43] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/407645e4fc716d23903a33e1264f5c1e/components/safeareacontext/RNCSafeAreaViewState.cpp.o
+[11/43] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f21b061f9f841cb532abea05819b748c/jni/react/renderer/components/safeareacontext/States.cpp.o
+[12/43] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/fdfbe6bc448a89499cfc7b85833db6fa/react/renderer/components/safeareacontext/EventEmitters.cpp.o
+[13/43] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f21b061f9f841cb532abea05819b748c/jni/react/renderer/components/safeareacontext/Props.cpp.o
+[14/43] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/d405d15b9ed7e7a0cf4a37eacaa5ccef/generated/source/codegen/jni/safeareacontext-generated.cpp.o
+[15/43] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3b2a8376d5d854d47aac30ed00ad9d6c/components/safeareacontext/safeareacontextJSI-generated.cpp.o
+[16/43] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/fdfbe6bc448a89499cfc7b85833db6fa/react/renderer/components/safeareacontext/ShadowNodes.cpp.o
+[17/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/28164607fa8ef1d92d2d6092be1c1066/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.cpp.o
+[18/43] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/3b2a8376d5d854d47aac30ed00ad9d6c/components/safeareacontext/ComponentDescriptors.cpp.o
+[19/43] Linking CXX shared library E:\REACT_NATIVE\MyNewApp\android\app\build\intermediates\cxx\RelWithDebInfo\254m2715\obj\arm64-v8a\libreact_codegen_safeareacontext.so
+[20/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/2ea6eac70a420d6be697e2734c7c6922/renderer/components/rnscreens/RNSScreenStackHeaderConfigShadowNode.cpp.o
+[21/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/37f58368d79bbc3ab01ccd7cce463c21/react/renderer/components/rnscreens/RNSFullWindowOverlayShadowNode.cpp.o
+[22/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/3c6fbf817409c48130bb0f162eb1932c/cpp/react/renderer/components/rnscreens/RNSModalScreenShadowNode.cpp.o
+[23/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/37f58368d79bbc3ab01ccd7cce463c21/react/renderer/components/rnscreens/RNSScreenStackHeaderConfigState.cpp.o
+[24/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/2ea6eac70a420d6be697e2734c7c6922/renderer/components/rnscreens/RNSScreenStackHeaderSubviewState.cpp.o
+[25/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/28164607fa8ef1d92d2d6092be1c1066/common/cpp/react/renderer/components/rnscreens/RNSScreenState.cpp.o
+[26/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/7c54881db403746a318015d1945443bf/source/codegen/jni/react/renderer/components/rnscreens/States.cpp.o
+[27/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/rnscreens.cpp.o
+[28/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/7c54881db403746a318015d1945443bf/source/codegen/jni/react/renderer/components/rnscreens/ShadowNodes.cpp.o
+[29/43] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o
+[30/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/2ea6eac70a420d6be697e2734c7c6922/renderer/components/rnscreens/RNSScreenStackHeaderSubviewShadowNode.cpp.o
+[31/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/1c30a709678b26d1fbeb2389c1188262/jni/react/renderer/components/rnscreens/rnscreensJSI-generated.cpp.o
+[32/43] Building CXX object CMakeFiles/appmodules.dir/E_/REACT_NATIVE/MyNewApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+[33/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/7c54881db403746a318015d1945443bf/source/codegen/jni/react/renderer/components/rnscreens/Props.cpp.o
+[34/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/1c30a709678b26d1fbeb2389c1188262/jni/react/renderer/components/rnscreens/ComponentDescriptors.cpp.o
+[35/43] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/fdd8e1bb4e2fec68681cc074aa910437/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp.o
+[36/43] Linking CXX shared library E:\REACT_NATIVE\MyNewApp\android\app\build\intermediates\cxx\RelWithDebInfo\254m2715\obj\arm64-v8a\libreact_codegen_rnscreens.so
+[37/43] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o
+[38/43] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o
+[39/43] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o
+[40/43] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o
+[41/43] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o
+[42/43] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o
+[43/43] Linking CXX shared library E:\REACT_NATIVE\MyNewApp\android\app\build\intermediates\cxx\RelWithDebInfo\254m2715\obj\arm64-v8a\libappmodules.so

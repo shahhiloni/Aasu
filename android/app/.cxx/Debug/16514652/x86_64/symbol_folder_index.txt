@@ -1,0 +1,1 @@
+E:\REACT_NATIVE\MyNewApp\android\app\build\intermediates\cxx\Debug\16514652\obj\x86_64
